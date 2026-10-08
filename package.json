@@ -1,0 +1,25 @@
+{
+  "name": "com.bill.sceneswitcher",
+  "version": "2.0.0",
+  "displayName": "Bill Scene Switcher",
+  "description": "Main-toolbar scene switcher for Unity 6.3+: searchable scene list grouped by folder, favorites, recent scenes, additive open and Play-from-bootstrap.",
+  "unity": "6000.3",
+  "keywords": [
+    "scene",
+    "switcher",
+    "toolbar",
+    "editor",
+    "productivity"
+  ],
+  "author": {
+    "name": "Bill Truong",
+    "url": "https://github.com/billtruong003"
+  },
+  "license": "MIT",
+  "documentationUrl": "https://github.com/billtruong003/BillSceneSwitcher#readme",
+  "changelogUrl": "https://github.com/billtruong003/BillSceneSwitcher/blob/main/CHANGELOG.md",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/billtruong003/BillSceneSwitcher.git"
+  }
+}
